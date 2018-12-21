@@ -25,7 +25,8 @@ int get_letter_nums(int x){
         if(x % 100 == 0){
             return leter_num[x / 100] + 7;
         }
-        return leter_num[x / 100] + 10 + get_letter_nums(x % 100);
+        return leter_num[x / 100] + 10 + get_letter_nums(x % 100);//注意这个地方的递归调用，一百以下的数据在调用自己处理，值得学习一下
+
     }return 11;
 }
 
