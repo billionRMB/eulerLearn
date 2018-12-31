@@ -7,3 +7,5 @@
 + 005 Smallest multiple
 + 013 large sum
 + 017 Number letter counts
++ 012 Highly divisible triangular number
+
