@@ -8,4 +8,4 @@
 + 013 large sum
 + 017 Number letter counts
 + 012 Highly divisible triangular number
-
++ 053 Combinatoric selections
