@@ -1,11 +1,4 @@
 ### 这个是欧拉学习的个人心得
 
-目前包含 
-
-+ 001 Multiples of 3 and 5
-+ 002 Even Fibonacci numbers
-+ 005 Smallest multiple
-+ 013 large sum
-+ 017 Number letter counts
-+ 012 Highly divisible triangular number
-+ 053 Combinatoric selections
++ euler.code 为　1 - 50 题的代码
++ euler.md 为　一些题目的个人总结
